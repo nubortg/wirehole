@@ -82,7 +82,7 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.26.2/docker-
     sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
 # wirehole
-git clone https://github.com/IAmStoxe/wirehole.git &&
+git clone https://github.com/nubortg/wirehole.git &&
     cd wirehole &&
     docker-compose up
 
