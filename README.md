@@ -48,7 +48,7 @@ Simply pulling `linuxserver/wireguard` should retrieve the correct image for you
 To get started all you need to do is clone the repository and spin up the containers.
 
 ```bash
-git clone https://github.com/IAmStoxe/wirehole.git
+git clone https://github.com/nubortg/wirehole.git
 cd wirehole
 docker-compose up
 ```
